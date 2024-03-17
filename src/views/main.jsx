@@ -141,7 +141,7 @@ class Main extends Component {
                 </div>
                 <div className="dateBox flex-sb">
                   <span className="date color-purple">today</span>
-                  <span className="dateValue">{name}</span>
+                  {/* <span className="dateValue">{name}</span> */}
                 </div>
               </div>
             </div>
