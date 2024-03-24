@@ -1,11 +1,11 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React from "react";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
     <div className="header">
       <div className="logo">
-        <Link to={`/`}>logo</Link>
+        <Link to={`/`}>test</Link>
       </div>
       <div className="loginBox flex">
         <div className="setting flex">
